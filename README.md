@@ -1,2 +1,2 @@
-# LinguagemC
- Curso de Liguagem C/C++
+# Linguagem de Programacao
+ Repositório para publicar projetos de programação desenvolvidos até o momento.
